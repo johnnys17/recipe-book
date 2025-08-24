@@ -6,7 +6,7 @@ Built to hone my front-end development abilities, this webpage serves as a key p
 
 🌐**Live Demo**
 
-- [Live Link](https://johnnys17.github.io/travel-destinations/)
+- [Live Link](https://johnnys17.github.io/recipe-book/#)
   
 🛠️**Tech Stack**
 - **HTML**: Semantic structure and content organization.
