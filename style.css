@@ -163,7 +163,8 @@ body {
 
 .recipe-card h3,
 .recipe-card p,
-.recipe-card ul {
+.recipe-card ul,
+.footer p {
     color: white;
     text-align: center;
     font-family: 'Montserrat', Arial, sans-serif;
@@ -178,6 +179,14 @@ footer {
     bottom: 0;
     width: 100%;
     border-top: 2px solid #C17C4A;
+}
+
+footer a:hover {
+    color: #C17C4A;
+}
+
+footer a:active {
+    color: #8A9A5B;
 }
 
 @media (max-width: 600px) {
