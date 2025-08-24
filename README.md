@@ -7,6 +7,7 @@ Built to hone my front-end development abilities, this webpage serves as a key p
 🌐**Live Demo**
 
 - [Live Link](https://johnnys17.github.io/recipe-book/#)
+- <a href="https://johnnys17.github.io/recipe-book/" target="_blank">Live Link</a>
   
 🛠️**Tech Stack**
 - **HTML**: Semantic structure and content organization.
